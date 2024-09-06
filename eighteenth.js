@@ -1,6 +1,6 @@
 
 
-
+//pratice Question
 //using filter in array  and finding the even number using filter function .
 
 let arr=[111,121,131,141,150];
